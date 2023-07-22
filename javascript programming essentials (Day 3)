@@ -1,0 +1,8 @@
+var length=prompt("value for Length : ");
+var width=prompt("value for width : ");
+function calculateArea(length, width,area){
+    area = length * width;
+    return area;
+}
+area= calculateArea(length,width);
+console.log(area);
