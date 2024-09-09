@@ -1,6 +1,10 @@
 # JavaScript Programming Essentials
 
 **Learning JavaScript Programming Essentials through Let'sUpgrade Projects**
+<p align="center">
+  <img src="Js.png" style="width: 40%; height: 50%;" alt="Centered Image">
+</p>
+
 
 ## Overview
 
